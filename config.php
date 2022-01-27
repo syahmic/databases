@@ -3,8 +3,8 @@
 server with default setting (user 'root' with no password) */
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "ims506";
+$password = "syahmi1310";
+$dbname = "tuition_centre";
  
 /* Attempt to connect to MySQL database */
 $conn = new mysqli($servername, $username, $password, $dbname);
